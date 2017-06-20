@@ -21,7 +21,7 @@ module.exports = {
       build: function(/* context */) {
         var self       = this;
         var outputPath = this.readConfig('outputPath');
-        var buildEnv   = this.readConfig('environment');
+        var buildEnv   = this.readConfig('buildEnv');
 
         this.log('building app to `' + outputPath + '` using buildEnv `' + buildEnv + '`...', { verbose: true });
 
