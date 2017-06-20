@@ -1,5 +1,5 @@
 {
-  "name": "@deployjs/ember-build",
+  "name": "deployjs-ember-build",
   "version": "0.0.1",
   "description": "Build Ember projects ready for deployment",
   "main": "index.js",
