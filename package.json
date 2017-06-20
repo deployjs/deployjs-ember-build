@@ -1,6 +1,6 @@
 {
   "name": "deployjs-ember-build",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Build Ember projects ready for deployment",
   "main": "index.js",
   "scripts": {
